@@ -1,5 +1,5 @@
 # AAPL Stock Analysis 📊
-
+A beginner quantitative finance project analyzing stock performance using Python.
 ## Objective
 
 The goal of this project is to analyze Apple (AAPL) stock data using Python and understand key financial metrics such as returns, volatility, and overall performance.
@@ -75,7 +75,7 @@ pip install yfinance pandas matplotlib
 2. Run the notebook:
 
 ```
-jupyter notebook aapl_stock_analysis.ipynb
+jupyter notebook aapl_stock_analysis(3).ipynb
 ```
 
 ---
