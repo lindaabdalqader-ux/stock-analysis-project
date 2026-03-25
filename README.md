@@ -41,9 +41,26 @@ The goal of this project is to analyze Apple (AAPL) stock data using Python and 
 
 ---
 
+## Insights
+
+* AAPL demonstrates relatively stable returns with moderate volatility over the analyzed period.
+* The cumulative return trend shows consistent long-term growth, indicating strong performance.
+* Short-term fluctuations highlight the presence of market risk.
+* These results emphasize the importance of long-term investing and diversification.
+
+---
+
+## Why This Project Matters
+
+This project demonstrates how financial data can be analyzed using Python to evaluate investment performance and risk.
+It reflects core concepts used in quantitative finance, including return calculation, volatility analysis, and time-series visualization.
+
+
+
 ## Sample Output
 
-*(Add your graph screenshot here)*
+<img width="921" height="551" alt="Screenshot (241)" src="https://github.com/user-attachments/assets/5bc222a2-3ec9-442b-a2bb-646a680ea1f9" />
+
 
 ---
 
