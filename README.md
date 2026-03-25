@@ -37,5 +37,10 @@ This project demonstrates beginner-level quantitative finance skills, including:
 Future improvements could include:
 - comparing AAPL against other stocks
 - adding moving average strategies
+- ## Insights
+
+- AAPL shows relatively stable daily returns with moderate volatility.
+- The cumulative return trend indicates overall growth over the period analyzed.
+- Short-term fluctuations highlight market risk, reinforcing the importance of diversification.
 - backtesting a simple trading strategy
 - building a portfolio analysis model
