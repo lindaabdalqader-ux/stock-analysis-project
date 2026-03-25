@@ -90,6 +90,5 @@ jupyter notebook aapl_stock_analysis(3).ipynb
 ---
 
 ## Author
-Linda Abd-AlQader
 
 Linda Abd-Alqader
