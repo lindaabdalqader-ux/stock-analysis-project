@@ -37,10 +37,30 @@ This project demonstrates beginner-level quantitative finance skills, including:
 Future improvements could include:
 - comparing AAPL against other stocks
 - adding moving average strategies
-- ## Insights
+## Insights
 
 - AAPL shows relatively stable daily returns with moderate volatility.
 - The cumulative return trend indicates overall growth over the period analyzed.
 - Short-term fluctuations highlight market risk, reinforcing the importance of diversification.
+## Objective
+
+The goal of this project is to analyze stock data using Python and understand returns, volatility, and overall performance of a stock.
+## How to Run
+
+1. Install dependencies:
+   pip install yfinance pandas matplotlib
+
+2. Run the notebook:
+   jupyter notebook aapl_stock_analysis.ipynb
+## Sample Output
+
+![Cumulative Returns]
+<img width="921" height="551" alt="Screenshot (241)" src="https://github.com/user-attachments/assets/987958c2-b9e3-4679-a187-010333238934" />
+## Future Improvements
+
+- Add moving average strategy
+- Backtest trading signals
+- Analyze multiple stocks (portfolio)
+- Apply machine learning for prediction
 - backtesting a simple trading strategy
 - building a portfolio analysis model
